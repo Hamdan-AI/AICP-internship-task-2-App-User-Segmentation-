@@ -7,7 +7,7 @@ This repository contains a Python script for analyzing user behavior on an appli
 
 ### Prerequisites
 
-- Python 3.x
+
 - Pandas
 - Seaborn
 - Matplotlib
