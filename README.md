@@ -63,7 +63,4 @@ The dataset `userbehaviour.csv` is used in this analysis, which contains the fol
    - Apply Isolation Forest for anomaly detection.
    - Display anomalies detected in the dataset.
 
-### Code
 
-```python
-# (Include your code here)
